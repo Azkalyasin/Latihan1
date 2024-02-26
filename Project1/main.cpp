@@ -43,7 +43,7 @@ int main()
 	cout << endl;
 
 	while (ulang != 't') {
-		cout << << endl;
+		cout << ulang<< endl;
 	}
 
 	cout << "Terima kasih telah memesan" << endl;
